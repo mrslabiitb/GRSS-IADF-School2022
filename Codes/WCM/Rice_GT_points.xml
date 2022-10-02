@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Masks>
+  <Mask type="Geometry">
+    <NAME value="Rice_GT_Points" />
+    <MASK_RASTER_WIDTH value="2525" />
+    <MASK_RASTER_HEIGHT value="2981" />
+    <DESCRIPTION value="Mask derived from geometries in 'pins'" />
+    <COLOR red="255" green="0" blue="0" alpha="255" />
+    <TRANSPARENCY value="0.5" />
+    <IMAGE_TO_MODEL_TRANSFORM value="1.3474729261792824E-4,0.0,0.0,-1.3474729261792824E-4,80.57262135078098,16.57907339286347" />
+    <VECTOR_DATA_NODE value="pins" />
+  </Mask>
+</Masks>
+
